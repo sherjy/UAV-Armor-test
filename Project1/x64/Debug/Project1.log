@@ -1,0 +1,6 @@
+﻿  UAVarmor.cpp
+c:\users\lenovo\source\repos\project1\project1\uavarmor.cpp(79): warning C4101: “aspect_ratio_1”: 未引用的局部变量
+c:\users\lenovo\source\repos\project1\project1\uavarmor.cpp(82): warning C4101: “aspect_ratio_2”: 未引用的局部变量
+c:\users\lenovo\source\repos\project1\project1\uavarmor.cpp(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+c:\users\lenovo\source\repos\project1\project1\uavarmor.cpp(162): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\lenovo\source\repos\Project1\x64\Debug\Project1.exe
